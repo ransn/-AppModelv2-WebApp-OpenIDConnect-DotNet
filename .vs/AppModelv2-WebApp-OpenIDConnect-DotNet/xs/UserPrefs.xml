@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B1683E5F-00E4-4690-97AE-1C94A4F9FC82}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppModelv2-WebApp-OpenIDConnect-DotNet/Web.config">
+    <Files>
+      <File FileName="AppModelv2-WebApp-OpenIDConnect-DotNet/Startup.cs" Line="41" Column="14" />
+      <File FileName="AppModelv2-WebApp-OpenIDConnect-DotNet/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="AppModelv2-WebApp-OpenIDConnect-DotNet/Controllers/ClaimsController.cs" Line="1" Column="1" />
+      <File FileName="AppModelv2-WebApp-OpenIDConnect-DotNet/packages.config" Line="1" Column="1" />
+      <File FileName="AppModelv2-WebApp-OpenIDConnect-DotNet/Web.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppModelv2-WebApp-OpenIDConnect-DotNet" expanded="True">
+            <Node name="AppModelv2-WebApp-OpenIDConnect-DotNet" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Web.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../../Projects/AzureTables/AzureCosmosDb.cs" line="16" offsetX="-1" offsetY="-1" expression="documentClient" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.AppModelv2-WebApp-OpenIDConnect-DotNet PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
